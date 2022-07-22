@@ -1,0 +1,10 @@
+.my-domain, .other-domain {
+  padding-left: 0;
+}
+.confirm-address-all,
+.confirm-address-li input {
+  margin-right: 5px;
+}
+.confirm-address-li {
+  list-style: none;
+}
