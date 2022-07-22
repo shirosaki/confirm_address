@@ -3,4 +3,4 @@
 // Confirm Address Plugin options
 // --------------------
 
-$config['confirm_address_my_domain'] = 'example.com';
+// $config['confirm_address_my_domain'] = 'example.com';
