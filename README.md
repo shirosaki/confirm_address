@@ -1,6 +1,7 @@
 # Roundcube Confirm Address
 
-This plugin aim to prevent sending an email to the wrong person.
+This plugin aims to prevent sending an email to the wrong person.
+
 Users are required to check each recipient addresses in a dialog before sending a message.
 My domain and other domains are listed separately.
 
@@ -20,4 +21,5 @@ If the user checks all recipient address, the user can send the email.
 
 # License
 `addressparser.js` is from https://github.com/nodemailer/nodemailer/.
+
 Other code is MIT License.
